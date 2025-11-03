@@ -1,5 +1,7 @@
 # TPVMCA
 Virtual machine TP
-Nombres:
+Integrantes: Alejandro Sabolla
+             Maria Luciana Orge
+             
 
 
